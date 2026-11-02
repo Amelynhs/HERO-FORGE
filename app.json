@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "HeroForge RPG",
+    "slug": "heroforge-rpg",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#17152A",
+    "splash": {
+      "backgroundColor": "#17152A"
+    },
+    "ios": {
+      "supportsTablet": false
+    },
+    "android": {
+      "backgroundColor": "#17152A"
+    }
+  }
+}
